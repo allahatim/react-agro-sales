@@ -2,7 +2,6 @@ import axios from 'axios';
 
 const API_BASE_URL = 'https://django-agro-sales-1t7vedcv3-allahatims-projects.vercel.app'; 
 const ProductService = {
-  // Fetch the list of products
   getProducts: async () => {
     try {
       const response = await axios.get(`${API_BASE_URL}/products/?format=json`);
