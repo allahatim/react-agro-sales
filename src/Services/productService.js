@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://django-agro-sales-git-main-allahatims-projects.vercel.app'; 
+const API_BASE_URL = 'https://django-agro-sales-1t7vedcv3-allahatims-projects.vercel.app'; 
 const ProductService = {
   // Fetch the list of products
   getProducts: async () => {
