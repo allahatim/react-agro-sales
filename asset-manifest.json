@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-agro-sales/static/css/main.7ac6811f.css",
+    "main.js": "/react-agro-sales/static/js/main.758673a3.js",
+    "static/media/user.png": "/react-agro-sales/static/media/user.d4f34a7867373f931fcf.png",
+    "index.html": "/react-agro-sales/index.html",
+    "main.7ac6811f.css.map": "/react-agro-sales/static/css/main.7ac6811f.css.map",
+    "main.758673a3.js.map": "/react-agro-sales/static/js/main.758673a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac6811f.css",
+    "static/js/main.758673a3.js"
+  ]
+}
